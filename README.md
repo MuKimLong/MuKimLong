@@ -1,10 +1,6 @@
 ### Hi there 👋
 
-<!--
-**MuKimLong/MuKimLong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 AI / Data Scientist
-
 
 I can troubleshoot in an end-to-end data science cycle. 
 
@@ -42,7 +38,9 @@ Link;
 **Computer Vision Projects**:
 
 I really enjoy working on computer vision things. Although it was not included in the official training I received, I devoted time to this field and worked on it. I would really enjoy delving deeper into Computer Vision.
+
 I have compiled a few studies I have done on this subject in this repository.
+
 First of all, I would like to introduce a classic CNN classification project. Because this is a Pneumonia Detection model that I made for a doctor friend in Chile, which gave me great pleasure. You can also find the Streamlit codes I used to deploy this project. At the same time, I will also put the Lung Cancer Detection and Detection of Sick Leaves projects, which I also classified as CNN, in the same folder.
 In addition, the Real-Time Vehicle Tracking AI application I made using NVIDIA's DeepStream and TAO Toolkit,
 Sign Language Action Detection,
@@ -53,4 +51,9 @@ Volume Control with Fingers,
 Face Mash projects will also be included in this repository.
 
 It will give me pleasure to deepen in any area of my field. Please do not hesitate to contact me for anything you think will benefit each other, the company, humanity or the universe
-muhammet.uzn@gmail.com
+**muhammet.uzn@gmail.com**
+
+<!--
+**MuKimLong/MuKimLong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+
